@@ -45,7 +45,7 @@ Etapas do Projeto:
 - `descritivo.txt`: Descrição completa do dataset, incluindo tipos e categorias das variáveis.
 - `dados_dsa29-Original.csv`: Base de dados original, sem correções.
 - `dados_dsa29.csv`: Base de dados corrigida e validada.
-- `the_powerpuff_girls.ipynb`: Pasta com o notebook final (grupo_meninas_super_poderosas.ipynb) e um arquivo README.md com o descritivo da análise.
+- `the_powerpuff_girls.ipynb`: Pasta com o notebook final.
 
 ## Tecnologias Utilizadas
 - `Google Sheets`: Dataset - Coleta dos dados.
