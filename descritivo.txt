@@ -1,0 +1,79 @@
+Descritivo do dataset: PESQUISA-DSA29
+Data de criação: 24/10/2024
+Curso: MBA da Faculdade Impacta
+_________________________________________________________________________
+
+O dataset foi desenvolvido em colaboração pelos alunos do curso de MBA da Faculdade Impacta, contendo informações relacionadas a um levantamento realizado com diversos participantes.
+
+** Campos e descrição:
+	1. pesquisador (aluno): Identificador do pesquisador/aluno 			responsável pelo registro da linha de dados. Este campo serve 			para associar cada entrada ao aluno que coletou a informação.Tipo 	do campo:object
+
+
+	2. pesq_id: Identificação única do pesquisador/aluno, atribuída 		automaticamente através de um campo de incremento. Tipo do 			campo:float64
+
+
+	3. cep: Código de Endereçamento Postal (CEP) da localidade do 			informante. Este campo registra a informação coletada pelo 			pesquisador sobre a área geográfica do participante. Tipo do 			campo:object 
+
+
+	4. idade: Idade do pesquisado, registrada em anos completos. Este 	campo armazena a idade do participante no momento da coleta de 			dados. Tipo do campo:float64
+
+
+	5. sexo: Sexo do pesquisado, representado por uma única letra: 			"M" para Masculino e "F" para Feminino. Este campo é restrito a 		essas duas opções. Tipo do campo:object 
+
+
+	6. peso: Peso do pesquisado, registrado em quilogramas (kg). Este 	campo armazena o valor do peso corporal do participante. Tipo do 		campo:float64
+
+
+	7. altura: Altura do pesquisado, registrada em centímetros (cm). 		Este campo armazena a altura do participante de forma numérica, 		em centímetros.Tipo do campo:float64
+
+
+	8. estado_civil: Status de estado civil do pesquisado, armazenado 	como um valor numérico de acordo com as seguintes opções:
+		1: Solteiro(a)
+		2: Casado(a) ou união estável
+		3: Divorciado(a)
+		4: Separado(a)
+		5: Viúvo(a)
+	Tipo do campo:float64
+
+	9. escolaridade: Grau de escolaridade do pesquisado, armazenado 		como um valor numérico, conforme as opções abaixo:
+		1: Ensino Médio Incompleto
+		2: Ensino Médio Completo
+		3: Ensino Superior Incompleto
+		4: Ensino Superior Completo
+		5: Pós-Graduação
+		6: Mestrado
+		7: Doutorado
+	Tipo do campo:float64
+
+	10. consumo_alcool: Frequência de consumo de álcool do 				pesquisado, registrada em um valor numérico, com as seguintes 			opções:
+		1: Diariamente
+		2: 4 a 6 vezes por semana
+		3: 1 a 3 vezes por semana
+		4: 1 a 3 vezes por mês
+		5: 1 a 6 vezes no ano
+		6: Nunca
+	Tipo do campo:float64
+
+
+	11. fumante: Frequência de hábito de fumar do pesquisado, 			registrado numericamente, com as seguintes opções:
+		1: Diariamente
+		2: Às vezes
+		3: Raramente
+		4: Nunca
+	Tipo do campo:float64
+
+
+	12. exercícios: Frequência de prática de exercícios físicos do 			pesquisado, armazenada numericamente, conforme as opções:
+		1: Diariamente
+		2: 3 a 4 vezes por semana
+		3: 1 a 2 vezes por mês
+		4: Nunca
+	Tipo do campo:float64
+
+	
+	13. dieta: Tipo de dieta seguida pelo pesquisado, registrada 			numericamente, com as seguintes opções:
+		1: Sem restrições alimentares
+		2: Vegetariana (sem carne)
+		3: Vegana (sem produtos de origem animal)
+		4: Saudável (fit)
+	Tipo do campo:float64
