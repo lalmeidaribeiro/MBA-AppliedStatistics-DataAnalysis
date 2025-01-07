@@ -1,0 +1,359 @@
+pesquisador (aluno),pesq_id,cep,idade,sexo,peso,altura,estado_civil,escolaridade,consumo_alcool,fumante,exercícios,dieta,IMC,Classificacao,Z_Score,exercicios_label
+Murilo Santone de Menezes,1.0,3479030,26.0,M,67.0,183,1.0,5.0,3.0,1.0,3.0,1.0,20.00656932126967,Peso normal,0.8953279968962826,1 a 2 vezes por semana
+Murilo Santone de Menezes,1.0,3479030,42.0,F,65.0,173,2.0,4.0,4.0,4.0,1.0,1.0,21.71806608974573,Peso normal,0.29755212429488515,Diariamente
+Murilo Santone de Menezes,1.0,3479030,61.0,M,67.0,178,2.0,1.0,3.0,4.0,4.0,1.0,21.146319909102385,Peso normal,0.5964400605955839,Nunca
+Murilo Santone de Menezes,1.0,3479030,86.0,F,60.0,165,3.0,1.0,6.0,4.0,4.0,1.0,22.03856749311295,Peso normal,-0.18066857378623286,Nunca
+Murilo Santone de Menezes,1.0,3479030,24.0,F,70.0,170,1.0,2.0,2.0,2.0,4.0,1.0,24.221453287197235,Peso normal,0.11821936251446588,Nunca
+Murilo Santone de Menezes,1.0,2266000,27.0,M,80.0,170,1.0,4.0,2.0,4.0,4.0,1.0,27.68166089965398,Acima do peso,0.11821936251446588,Nunca
+Murilo Santone de Menezes,1.0,6020190,40.0,F,62.0,161,2.0,5.0,5.0,4.0,2.0,4.0,23.9188302920412,Peso normal,-0.41977892282679186,3 a 4 vezes por semana
+Murilo Santone de Menezes,1.0,9330080,31.0,F,55.0,173,1.0,3.0,3.0,2.0,2.0,4.0,18.376825152861773,Abaixo do peso,0.29755212429488515,3 a 4 vezes por semana
+Murilo Santone de Menezes,1.0,3150020,34.0,M,62.0,175,1.0,4.0,5.0,4.0,1.0,1.0,20.244897959183675,Peso normal,0.4171072988151646,Diariamente
+Murilo Santone de Menezes,1.0,5767001,42.0,F,67.0,161,1.0,4.0,5.0,4.0,2.0,4.0,25.847768218818715,Acima do peso,-0.41977892282679186,3 a 4 vezes por semana
+Jose Riquelmo Gomes da Silva,2.0,2678000,49.0,F,49.0,160,3.0,2.0,6.0,1.0,4.0,4.0,19.140624999999996,Peso normal,-0.4795565100869316,Nunca
+Jose Riquelmo Gomes da Silva,2.0,2678000,41.0,M,70.0,170,2.0,2.0,4.0,4.0,4.0,1.0,24.221453287197235,Peso normal,0.11821936251446588,Nunca
+Jose Riquelmo Gomes da Silva,2.0,2678000,35.0,F,68.0,166,2.0,1.0,5.0,4.0,4.0,1.0,24.677021338365513,Peso normal,-0.12089098652609312,Nunca
+Jose Riquelmo Gomes da Silva,2.0,2678000,55.0,F,60.0,156,5.0,1.0,3.0,1.0,4.0,1.0,24.654832347140037,Peso normal,-0.7186668591274906,Nunca
+Jose Riquelmo Gomes da Silva,2.0,2842120,24.0,M,84.0,184,1.0,4.0,3.0,3.0,3.0,1.0,24.8109640831758,Peso normal,0.9551055841564223,1 a 2 vezes por semana
+Jose Riquelmo Gomes da Silva,2.0,9450000,45.0,M,99.0,177,2.0,1.0,3.0,4.0,4.0,1.0,31.600114909508758,Obesidade I,0.5366624733354441,Nunca
+Jose Riquelmo Gomes da Silva,2.0,9450000,38.0,F,70.0,168,2.0,2.0,5.0,4.0,4.0,1.0,24.801587301587304,Peso normal,-0.0013358120058136155,Nunca
+Jose Riquelmo Gomes da Silva,2.0,9450000,30.0,M,80.0,175,2.0,1.0,3.0,4.0,4.0,1.0,26.122448979591837,Acima do peso,0.4171072988151646,Nunca
+Jose Riquelmo Gomes da Silva,2.0,9450000,26.0,F,60.0,163,2.0,1.0,5.0,4.0,4.0,1.0,22.582709172343712,Peso normal,-0.3002237483065124,Nunca
+Jose Riquelmo Gomes da Silva,2.0,9450000,70.0,F,65.0,154,2.0,1.0,6.0,4.0,4.0,1.0,27.40765727778715,Acima do peso,-0.8382220336477701,Nunca
+Larissa de Almeida Ribeiro,3.0,8280390,24.0,F,56.0,165,1.0,4.0,6.0,4.0,1.0,1.0,20.569329660238754,Peso normal,-0.18066857378623286,Diariamente
+Larissa de Almeida Ribeiro,3.0,23915060,27.0,M,60.0,160,1.0,2.0,2.0,3.0,3.0,1.0,23.437499999999996,Peso normal,-0.4795565100869316,1 a 2 vezes por semana
+Larissa de Almeida Ribeiro,3.0,80020929,25.0,M,80.0,180,2.0,2.0,3.0,3.0,2.0,2.0,24.691358024691358,Peso normal,0.7159952351158634,3 a 4 vezes por semana
+Larissa de Almeida Ribeiro,3.0,74484090,30.0,F,55.0,175,1.0,4.0,4.0,3.0,4.0,1.0,17.959183673469386,Abaixo do peso,0.4171072988151646,Nunca
+Larissa de Almeida Ribeiro,3.0,58103294,40.0,F,75.0,163,1.0,5.0,4.0,2.0,1.0,4.0,28.228386465429637,Acima do peso,-0.3002237483065124,Diariamente
+Larissa de Almeida Ribeiro,3.0,8210100,55.0,F,69.0,184,1.0,5.0,5.0,3.0,2.0,4.0,20.380434782608695,Peso normal,0.9551055841564223,3 a 4 vezes por semana
+Larissa de Almeida Ribeiro,3.0,57302620,60.0,M,100.0,198,3.0,5.0,4.0,1.0,3.0,3.0,25.507601265177023,Acima do peso,1.7919918057983788,1 a 2 vezes por semana
+Larissa de Almeida Ribeiro,3.0,88371457,65.0,M,84.0,175,2.0,4.0,3.0,4.0,1.0,2.0,27.428571428571427,Acima do peso,0.4171072988151646,Diariamente
+Larissa de Almeida Ribeiro,3.0,97509386,14.0,F,45.0,155,1.0,1.0,6.0,4.0,2.0,1.0,18.730489073881373,Peso normal,-0.7784444463876303,3 a 4 vezes por semana
+Larissa de Almeida Ribeiro,3.0,60355010,20.0,M,70.0,180,4.0,4.0,3.0,4.0,4.0,3.0,21.604938271604937,Peso normal,0.7159952351158634,Nunca
+Gislaine Gomes dos Santos,4.0,6765000,15.0,M,63.0,175,1.0,1.0,6.0,4.0,4.0,1.0,20.571428571428573,Peso normal,0.4171072988151646,Nunca
+Gislaine Gomes dos Santos,4.0,6755260,44.0,F,69.0,152,1.0,4.0,5.0,3.0,4.0,1.0,29.864958448753463,Acima do peso,-0.9577772081680496,Nunca
+Gislaine Gomes dos Santos,4.0,4842350,31.0,F,90.0,160,1.0,4.0,5.0,4.0,4.0,1.0,35.15624999999999,Obesidade II (severa),-0.4795565100869316,Nunca
+Gislaine Gomes dos Santos,4.0,5765220,28.0,F,73.0,167,1.0,4.0,4.0,4.0,1.0,1.0,26.175194521137367,Acima do peso,-0.06111339926595336,Diariamente
+Gislaine Gomes dos Santos,4.0,4069000,33.0,M,82.0,178,1.0,4.0,6.0,4.0,1.0,4.0,25.88057063502083,Acima do peso,0.5964400605955839,Diariamente
+Gislaine Gomes dos Santos,4.0,6765000,43.0,M,75.0,185,2.0,4.0,6.0,4.0,1.0,4.0,21.913805697589478,Peso normal,1.014883171416562,Diariamente
+Gislaine Gomes dos Santos,4.0,5756260,22.0,F,68.0,167,1.0,2.0,4.0,4.0,3.0,1.0,24.38237297859371,Peso normal,-0.06111339926595336,1 a 2 vezes por semana
+Gislaine Gomes dos Santos,4.0,6765000,43.0,F,74.0,163,2.0,4.0,6.0,4.0,1.0,4.0,27.85200797922391,Acima do peso,-0.3002237483065124,Diariamente
+Gislaine Gomes dos Santos,4.0,2712070,36.0,F,65.0,157,2.0,4.0,6.0,4.0,1.0,4.0,26.370238143535232,Acima do peso,-0.6588892718673509,Diariamente
+Gislaine Gomes dos Santos,4.0,6765000,13.0,F,48.0,151,1.0,1.0,6.0,4.0,1.0,4.0,21.051708258409718,Peso normal,-1.0175547954281894,Diariamente
+Gislaine Gomes dos Santos,4.0,4546060,36.0,M,91.0,181,1.0,4.0,4.0,2.0,1.0,4.0,27.776929886145112,Acima do peso,0.7757728223760031,Diariamente
+Gislaine Gomes dos Santos,4.0,2066014,27.0,M,70.0,171,1.0,4.0,4.0,2.0,4.0,4.0,23.938989774631512,Peso normal,0.17799694977460565,Nunca
+Gislaine Gomes dos Santos,4.0,1548020,26.0,M,80.0,169,2.0,4.0,1.0,2.0,4.0,4.0,28.01022373166206,Acima do peso,0.05844177525432613,Nunca
+Gislaine Gomes dos Santos,4.0,3534080,30.0,F,66.0,169,1.0,4.0,1.0,4.0,3.0,1.0,23.1084345786212,Peso normal,0.05844177525432613,1 a 2 vezes por semana
+Gislaine Gomes dos Santos,4.0,5360130,37.0,F,86.0,165,2.0,4.0,1.0,4.0,3.0,1.0,31.58861340679523,Obesidade I,-0.18066857378623286,1 a 2 vezes por semana
+Carlos Menezes de Oliveira,5.0,49480000,65.0,M,80.0,180,2.0,1.0,4.0,4.0,4.0,1.0,24.691358024691358,Peso normal,0.7159952351158634,Nunca
+Carlos Menezes de Oliveira,5.0,49480000,60.0,F,75.0,172,2.0,1.0,4.0,4.0,4.0,1.0,25.351541373715524,Acima do peso,0.23777453703474538,Nunca
+Carlos Menezes de Oliveira,5.0,49480000,38.0,F,71.0,179,2.0,1.0,4.0,4.0,4.0,1.0,22.15910864205237,Peso normal,0.6562176478557237,Nunca
+Carlos Menezes de Oliveira,5.0,49480000,40.0,M,80.0,180,2.0,1.0,4.0,4.0,4.0,1.0,24.691358024691358,Peso normal,0.7159952351158634,Nunca
+Carlos Menezes de Oliveira,5.0,49480000,12.0,M,62.0,160,1.0,1.0,6.0,4.0,4.0,1.0,24.218749999999996,Peso normal,-0.4795565100869316,Nunca
+Carlos Menezes de Oliveira,5.0,49480000,30.0,M,76.0,170,1.0,1.0,4.0,4.0,4.0,1.0,26.29757785467128,Acima do peso,0.11821936251446588,Nunca
+Carlos Menezes de Oliveira,5.0,49480000,32.0,M,90.0,175,1.0,1.0,4.0,4.0,4.0,1.0,29.387755102040817,Acima do peso,0.4171072988151646,Nunca
+Carlos Menezes de Oliveira,5.0,6931870,42.0,F,96.0,175,2.0,4.0,6.0,4.0,4.0,1.0,31.346938775510203,Obesidade I,0.4171072988151646,Nunca
+Carlos Menezes de Oliveira,5.0,6931870,35.0,M,92.0,183,2.0,4.0,4.0,4.0,4.0,1.0,27.471707127713575,Acima do peso,0.8953279968962826,Nunca
+Carlos Menezes de Oliveira,5.0,6931870,7.0,M,45.0,153,1.0,1.0,6.0,4.0,4.0,1.0,19.223375624759708,Peso normal,-0.8979996209079099,Nunca
+Leonardo de Souza Silva,6.0,12345678,30.0,M,75.0,175,1.0,4.0,3.0,4.0,2.0,1.0,24.489795918367346,Peso normal,0.4171072988151646,3 a 4 vezes por semana
+Leonardo de Souza Silva,6.0,98765432,25.0,F,60.0,162,2.0,3.0,4.0,3.0,1.0,4.0,22.86236854138088,Peso normal,-0.3600013355666521,Diariamente
+Leonardo de Souza Silva,6.0,54321987,28.0,M,82.0,180,1.0,5.0,5.0,4.0,3.0,1.0,25.30864197530864,Acima do peso,0.7159952351158634,1 a 2 vezes por semana
+Leonardo de Souza Silva,6.0,67890123,35.0,F,68.0,168,2.0,4.0,2.0,2.0,2.0,2.0,24.092970521541954,Peso normal,-0.0013358120058136155,3 a 4 vezes por semana
+Leonardo de Souza Silva,6.0,13579246,40.0,M,85.0,178,3.0,2.0,6.0,1.0,4.0,1.0,26.82742078020452,Acima do peso,0.5964400605955839,Nunca
+Leonardo de Souza Silva,6.0,24680135,29.0,F,58.0,160,1.0,3.0,3.0,4.0,2.0,3.0,22.656249999999996,Peso normal,-0.4795565100869316,3 a 4 vezes por semana
+Leonardo de Souza Silva,6.0,13524680,34.0,M,90.0,182,2.0,4.0,1.0,1.0,2.0,4.0,27.17063156623596,Acima do peso,0.8355504096361429,3 a 4 vezes por semana
+Leonardo de Souza Silva,6.0,97531864,31.0,F,62.0,165,1.0,6.0,6.0,4.0,3.0,2.0,22.77318640955005,Peso normal,-0.18066857378623286,1 a 2 vezes por semana
+Leonardo de Souza Silva,6.0,86420975,38.0,M,78.0,176,4.0,7.0,4.0,3.0,1.0,1.0,25.180785123966942,Acima do peso,0.4768848860753044,Diariamente
+Leonardo de Souza Silva,6.0,12468357,33.0,F,65.0,167,5.0,5.0,2.0,2.0,4.0,1.0,23.306680053067517,Peso normal,-0.06111339926595336,Nunca
+Joao Pedro Ciglioni Garcia,7.0,1227000,23.0,F,57.0,159,1.0,2.0,5.0,4.0,4.0,1.0,22.54657648036074,Peso normal,-0.5393340973470714,Nunca
+Joao Pedro Ciglioni Garcia,7.0,1227000,64.0,F,77.0,173,5.0,4.0,6.0,4.0,2.0,1.0,25.727555214006482,Acima do peso,0.29755212429488515,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3170500,24.0,M,85.0,185,1.0,5.0,4.0,2.0,4.0,1.0,24.835646457268076,Peso normal,1.014883171416562,Nunca
+Joao Pedro Ciglioni Garcia,7.0,8070195,24.0,M,109.0,180,1.0,5.0,4.0,2.0,2.0,1.0,33.641975308641975,Obesidade I,0.7159952351158634,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3813000,24.0,M,120.0,185,1.0,3.0,5.0,4.0,1.0,1.0,35.06208911614317,Obesidade II (severa),1.014883171416562,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,3673010,28.0,M,92.0,170,2.0,4.0,6.0,4.0,1.0,1.0,31.83391003460208,Obesidade I,0.11821936251446588,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,13566533,29.0,M,84.0,178,1.0,5.0,6.0,4.0,4.0,1.0,26.511804065143288,Acima do peso,0.5964400605955839,Nunca
+Joao Pedro Ciglioni Garcia,7.0,3690000,18.0,F,65.0,167,1.0,3.0,4.0,2.0,2.0,1.0,23.306680053067517,Peso normal,-0.06111339926595336,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3646000,40.0,F,68.0,164,2.0,5.0,3.0,4.0,2.0,1.0,25.282569898869724,Acima do peso,-0.24044616104637262,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,8150545,24.0,M,89.0,195,1.0,4.0,4.0,3.0,2.0,1.0,23.405654174884944,Peso normal,1.6126590440179596,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,8070200,33.0,F,46.0,159,1.0,3.0,2.0,4.0,1.0,1.0,18.19548277362446,Abaixo do peso,-0.5393340973470714,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,3118040,57.0,F,62.0,156,2.0,5.0,4.0,4.0,4.0,1.0,25.476660092044707,Acima do peso,-0.7186668591274906,Nunca
+Joao Pedro Ciglioni Garcia,7.0,74605110,20.0,F,63.0,160,1.0,3.0,4.0,4.0,2.0,1.0,24.609374999999996,Peso normal,-0.4795565100869316,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3044000,21.0,F,80.0,167,2.0,3.0,3.0,2.0,4.0,1.0,28.685144680698485,Acima do peso,-0.06111339926595336,Nunca
+Joao Pedro Ciglioni Garcia,7.0,8011300,24.0,M,90.0,168,1.0,3.0,4.0,1.0,3.0,4.0,31.88775510204082,Obesidade I,-0.0013358120058136155,1 a 2 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,23525257,23.0,M,85.0,170,1.0,3.0,3.0,3.0,1.0,1.0,29.411764705882355,Acima do peso,0.11821936251446588,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,44430116,23.0,M,70.0,175,1.0,4.0,6.0,4.0,2.0,4.0,22.857142857142858,Peso normal,0.4171072988151646,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3141080,24.0,M,104.0,181,2.0,3.0,4.0,2.0,2.0,4.0,31.745062727022983,Obesidade I,0.7757728223760031,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,1227000,50.0,F,66.0,161,3.0,3.0,5.0,3.0,1.0,1.0,25.461980633463213,Acima do peso,-0.41977892282679186,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,3877200,26.0,M,80.0,182,1.0,4.0,4.0,2.0,2.0,1.0,24.151672503320853,Peso normal,0.8355504096361429,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3814000,24.0,F,67.0,167,1.0,4.0,4.0,3.0,2.0,1.0,24.023808670084982,Peso normal,-0.06111339926595336,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,2251000,28.0,M,80.0,167,1.0,4.0,5.0,4.0,1.0,1.0,28.685144680698485,Acima do peso,-0.06111339926595336,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,8320451,23.0,F,64.0,158,1.0,3.0,4.0,2.0,3.0,2.0,25.63691716071142,Acima do peso,-0.5991116846072111,1 a 2 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,8021580,23.0,F,47.0,160,1.0,4.0,4.0,3.0,4.0,1.0,18.359374999999996,Abaixo do peso,-0.4795565100869316,Nunca
+Joao Pedro Ciglioni Garcia,7.0,8121660,23.0,M,102.0,184,1.0,5.0,5.0,4.0,2.0,1.0,30.12759924385633,Obesidade I,0.9551055841564223,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3959030,24.0,M,55.0,165,1.0,4.0,6.0,4.0,2.0,1.0,20.202020202020204,Peso normal,-0.18066857378623286,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,9841270,29.0,M,107.0,175,1.0,4.0,3.0,4.0,4.0,1.0,34.93877551020408,Obesidade I,0.4171072988151646,Nunca
+Joao Pedro Ciglioni Garcia,7.0,8330170,22.0,M,84.0,176,1.0,2.0,4.0,1.0,1.0,1.0,27.117768595041323,Acima do peso,0.4768848860753044,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,9250490,24.0,F,95.0,166,2.0,4.0,4.0,3.0,3.0,1.0,34.47525039918711,Obesidade I,-0.12089098652609312,1 a 2 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,3944050,24.0,F,64.0,162,1.0,5.0,5.0,2.0,4.0,1.0,24.38652644413961,Peso normal,-0.3600013355666521,Nunca
+Joao Pedro Ciglioni Garcia,7.0,9210100,26.0,M,63.0,183,1.0,4.0,6.0,4.0,3.0,1.0,18.812147272238644,Peso normal,0.8953279968962826,1 a 2 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,9210050,24.0,F,58.0,156,1.0,3.0,3.0,1.0,4.0,1.0,23.83300460223537,Peso normal,-0.7186668591274906,Nunca
+Joao Pedro Ciglioni Garcia,7.0,6445575,25.0,F,64.0,165,1.0,4.0,3.0,3.0,1.0,1.0,23.507805325987146,Peso normal,-0.18066857378623286,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,25530580,19.0,F,63.0,173,1.0,2.0,4.0,4.0,4.0,1.0,21.04981790236894,Peso normal,0.29755212429488515,Nunca
+Joao Pedro Ciglioni Garcia,7.0,9241110,24.0,M,57.0,176,1.0,5.0,5.0,4.0,3.0,4.0,18.401342975206614,Abaixo do peso,0.4768848860753044,1 a 2 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,99070060,23.0,M,68.0,184,1.0,5.0,3.0,4.0,2.0,1.0,20.085066162570886,Peso normal,0.9551055841564223,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,8160015,24.0,M,84.0,176,1.0,2.0,3.0,2.0,2.0,1.0,27.117768595041323,Acima do peso,0.4768848860753044,3 a 4 vezes por semana
+Joao Pedro Ciglioni Garcia,7.0,8471740,24.0,M,60.0,165,1.0,4.0,4.0,3.0,4.0,1.0,22.03856749311295,Peso normal,-0.18066857378623286,Nunca
+Joao Pedro Ciglioni Garcia,7.0,1153040,27.0,F,59.0,178,1.0,4.0,4.0,4.0,1.0,4.0,18.621386188612547,Peso normal,0.5964400605955839,Diariamente
+Joao Pedro Ciglioni Garcia,7.0,65913450,33.0,F,62.0,167,2.0,5.0,5.0,4.0,2.0,1.0,22.230987127541326,Peso normal,-0.06111339926595336,3 a 4 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8412000,21.0,M,65.0,183,1.0,3.0,5.0,4.0,3.0,1.0,19.409358296754156,Peso normal,0.8953279968962826,1 a 2 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151260,15.0,M,55.0,175,1.0,1.0,6.0,4.0,2.0,1.0,17.959183673469386,Abaixo do peso,0.4171072988151646,3 a 4 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151290,25.0,M,67.0,175,1.0,4.0,6.0,4.0,1.0,1.0,21.877551020408163,Peso normal,0.4171072988151646,Diariamente
+Eduardo Gaspar de Sousa,8.0,8151000,22.0,M,63.0,185,1.0,3.0,6.0,4.0,3.0,1.0,18.407596785975162,Abaixo do peso,1.014883171416562,1 a 2 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151000,24.0,M,89.0,179,2.0,4.0,4.0,4.0,3.0,1.0,27.776910832995224,Acima do peso,0.6562176478557237,1 a 2 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151000,19.0,F,59.0,171,1.0,2.0,5.0,4.0,2.0,4.0,20.177148524332274,Peso normal,0.17799694977460565,3 a 4 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151161,21.0,M,89.0,181,1.0,3.0,6.0,4.0,3.0,1.0,27.16644791062544,Acima do peso,0.7757728223760031,1 a 2 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151110,26.0,M,86.0,184,2.0,5.0,4.0,4.0,3.0,1.0,25.401701323251416,Acima do peso,0.9551055841564223,1 a 2 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8150450,20.0,F,60.0,172,1.0,2.0,5.0,4.0,2.0,1.0,20.281233098972418,Peso normal,0.23777453703474538,3 a 4 vezes por semana
+Eduardo Gaspar de Sousa,8.0,8151161,52.0,M,92.0,180,2.0,4.0,6.0,4.0,4.0,1.0,28.39506172839506,Acima do peso,0.7159952351158634,Nunca
+Bruno Britto dos Santos,9.0,01018020,25.0,M,72.0,175,1.0,3.0,3.0,4.0,2.0,1.0,23.510204081632654,Peso normal,0.4171072988151646,3 a 4 vezes por semana
+Bruno Britto dos Santos,9.0,01512020,34.0,F,60.0,162,2.0,4.0,4.0,4.0,1.0,2.0,22.86236854138088,Peso normal,-0.3600013355666521,Diariamente
+Bruno Britto dos Santos,9.0,02044050,45.0,M,85.0,180,2.0,5.0,2.0,1.0,2.0,4.0,26.234567901234566,Acima do peso,0.7159952351158634,3 a 4 vezes por semana
+Bruno Britto dos Santos,9.0,03050000,29.0,F,58.0,167,1.0,4.0,5.0,3.0,3.0,1.0,20.796729893506402,Peso normal,-0.06111339926595336,1 a 2 vezes por semana
+Bruno Britto dos Santos,9.0,04080002,55.0,M,90.0,170,3.0,2.0,6.0,4.0,4.0,1.0,31.14186851211073,Obesidade I,0.11821936251446588,Nunca
+Bruno Britto dos Santos,9.0,05012040,31.0,F,68.0,160,2.0,5.0,4.0,2.0,2.0,3.0,26.562499999999996,Acima do peso,-0.4795565100869316,3 a 4 vezes por semana
+Bruno Britto dos Santos,9.0,06023001,47.0,M,95.0,178,2.0,4.0,3.0,1.0,2.0,1.0,29.983587930816814,Acima do peso,0.5964400605955839,3 a 4 vezes por semana
+Bruno Britto dos Santos,9.0,07083060,63.0,F,62.0,158,5.0,1.0,6.0,4.0,4.0,2.0,24.83576349943919,Peso normal,-0.5991116846072111,Nunca
+Bruno Britto dos Santos,9.0,08090010,39.0,M,77.0,172,4.0,3.0,1.0,2.0,1.0,4.0,26.027582477014604,Acima do peso,0.23777453703474538,Diariamente
+Bruno Britto dos Santos,9.0,09090100,26.0,F,54.0,165,1.0,2.0,2.0,3.0,3.0,1.0,19.834710743801654,Peso normal,-0.18066857378623286,1 a 2 vezes por semana
+Tatiana Araujo Domingos,10.0,03912010,73.0,F,41.0,151,5.0,1.0,6.0,1.0,4.0,1.0,17.981667470724968,Abaixo do peso,-1.0175547954281894,Nunca
+Tatiana Araujo Domingos,10.0,03912010,18.0,F,65.0,162,1.0,2.0,6.0,4.0,1.0,2.0,24.76756591982929,Peso normal,-0.3600013355666521,Diariamente
+Tatiana Araujo Domingos,10.0,03912010,21.0,M,74.0,178,1.0,3.0,6.0,4.0,1.0,1.0,23.355636914530994,Peso normal,0.5964400605955839,Diariamente
+Tatiana Araujo Domingos,10.0,03912010,74.0,F,70.0,160,1.0,1.0,6.0,4.0,4.0,1.0,27.343749999999996,Acima do peso,-0.4795565100869316,Nunca
+Tatiana Araujo Domingos,10.0,03478007,42.0,M,90.0,181,2.0,3.0,3.0,4.0,4.0,1.0,27.471688898385274,Acima do peso,0.7757728223760031,Nunca
+Tatiana Araujo Domingos,10.0,03478007,76.0,M,80.0,176,2.0,2.0,3.0,1.0,4.0,1.0,25.826446280991735,Acima do peso,0.4768848860753044,Nunca
+Tatiana Araujo Domingos,10.0,03478001,40.0,M,99.0,194,2.0,2.0,3.0,4.0,4.0,1.0,26.304601976830696,Acima do peso,1.55288145675782,Nunca
+Tatiana Araujo Domingos,10.0,03905040,38.0,F,72.0,156,2.0,4.0,6.0,4.0,4.0,1.0,29.585798816568044,Acima do peso,-0.7186668591274906,Nunca
+Tatiana Araujo Domingos,10.0,03905040,37.0,M,105.0,180,2.0,4.0,3.0,4.0,4.0,1.0,163.26530612244898,Obesidade III (mórbida),0.7159952351158634,Nunca
+Tatiana Araujo Domingos,10.0,03388080,47.0,M,130.0,182,2.0,2.0,2.0,4.0,4.0,1.0,107.69230769230768,Obesidade III (mórbida),0.8355504096361429,Nunca
+Douglas Cardoso dos Santos,11.0,06325010,29.0,M,78.0,180,1.0,4.0,3.0,4.0,2.0,1.0,24.074074074074073,Peso normal,0.7159952351158634,3 a 4 vezes por semana
+Douglas Cardoso dos Santos,11.0,06325010,34.0,M,62.0,165,2.0,5.0,4.0,1.0,1.0,4.0,22.77318640955005,Peso normal,-0.18066857378623286,Diariamente
+Douglas Cardoso dos Santos,11.0,06325010,41.0,M,90.0,175,3.0,3.0,5.0,2.0,3.0,1.0,29.387755102040817,Acima do peso,0.4171072988151646,1 a 2 vezes por semana
+Douglas Cardoso dos Santos,11.0,06325010,27.0,F,58.0,160,1.0,2.0,6.0,4.0,2.0,2.0,22.656249999999996,Peso normal,-0.4795565100869316,3 a 4 vezes por semana
+Douglas Cardoso dos Santos,11.0,06325010,23.0,M,72.0,178,1.0,4.0,2.0,4.0,1.0,1.0,22.724403484408533,Peso normal,0.5964400605955839,Diariamente
+Douglas Cardoso dos Santos,11.0,06325010,45.0,F,68.0,170,2.0,4.0,1.0,3.0,2.0,4.0,23.529411764705884,Peso normal,0.11821936251446588,3 a 4 vezes por semana
+Douglas Cardoso dos Santos,11.0,60694170,39.0,M,83.0,182,2.0,5.0,3.0,1.0,1.0,1.0,25.057360222195385,Acima do peso,0.8355504096361429,Diariamente
+Douglas Cardoso dos Santos,11.0,60694170,31.0,F,60.0,167,2.0,4.0,4.0,4.0,4.0,3.0,21.513858510523864,Peso normal,-0.06111339926595336,Nunca
+Douglas Cardoso dos Santos,11.0,05010040,36.0,F,88.0,175,4.0,3.0,6.0,2.0,3.0,1.0,28.73469387755102,Acima do peso,0.4171072988151646,1 a 2 vezes por semana
+Douglas Cardoso dos Santos,11.0,05010040,28.0,F,55.0,160,1.0,6.0,2.0,4.0,2.0,2.0,21.484374999999996,Peso normal,-0.4795565100869316,3 a 4 vezes por semana
+Leticia Santos Rosa,12.0,06233030,29.0,F,75.0,160,1.0,4.0,4.0,2.0,1.0,1.0,29.296874999999993,Acima do peso,-0.4795565100869316,Diariamente
+Leticia Santos Rosa,12.0,06233030,24.0,M,103.0,185,1.0,2.0,4.0,4.0,4.0,1.0,30.094959824689553,Obesidade I,1.014883171416562,Nunca
+Leticia Santos Rosa,12.0,06029900,30.0,M,90.0,170,3.0,6.0,4.0,4.0,1.0,4.0,31.14186851211073,Obesidade I,0.11821936251446588,Diariamente
+Leticia Santos Rosa,12.0,6029902,27.0,F,65.0,163,1.0,4.0,5.0,3.0,2.0,4.0,24.46460160337235,Peso normal,-0.3002237483065124,3 a 4 vezes por semana
+Leticia Santos Rosa,12.0,6029902,23.0,F,55.0,159,1.0,3.0,3.0,2.0,2.0,1.0,21.75546853368142,Peso normal,-0.5393340973470714,3 a 4 vezes por semana
+Leticia Santos Rosa,12.0,06124010,39.0,F,69.0,165,2.0,6.0,5.0,4.0,1.0,1.0,25.344352617079892,Acima do peso,-0.18066857378623286,Diariamente
+Leticia Santos Rosa,12.0,06124010,27.0,M,97.0,186,1.0,5.0,4.0,3.0,4.0,1.0,28.037923459359458,Acima do peso,1.0746607586767019,Nunca
+Leticia Santos Rosa,12.0,06124010,56.0,M,80.0,178,5.0,5.0,2.0,4.0,4.0,1.0,25.24933720489837,Acima do peso,0.5964400605955839,Nunca
+Leticia Santos Rosa,12.0,06283160,20.0,F,58.0,160,1.0,4.0,2.0,4.0,2.0,1.0,22.656249999999996,Peso normal,-0.4795565100869316,3 a 4 vezes por semana
+Leticia Santos Rosa,12.0,06283160,31.0,F,68.0,163,1.0,4.0,5.0,3.0,1.0,1.0,25.59373706198954,Acima do peso,-0.3002237483065124,Diariamente
+Jessica da Silva Santos,13.0,4815010,22.0,F,58.0,162,1.0,3.0,4.0,3.0,2.0,2.0,22.10028959000152,Peso normal,-0.3600013355666521,3 a 4 vezes por semana
+Jessica da Silva Santos,13.0,4820190,30.0,M,85.0,178,2.0,4.0,2.0,1.0,1.0,1.0,26.82742078020452,Acima do peso,0.5964400605955839,Diariamente
+Jessica da Silva Santos,13.0,4823200,27.0,F,65.0,170,2.0,5.0,5.0,4.0,2.0,1.0,22.49134948096886,Peso normal,0.11821936251446588,3 a 4 vezes por semana
+Jessica da Silva Santos,13.0,4810240,35.0,M,92.0,180,3.0,2.0,1.0,1.0,1.0,4.0,28.39506172839506,Acima do peso,0.7159952351158634,Diariamente
+Jessica da Silva Santos,13.0,4813070,40.0,F,70.0,160,4.0,4.0,6.0,4.0,4.0,3.0,27.343749999999996,Acima do peso,-0.4795565100869316,Nunca
+Jessica da Silva Santos,13.0,4811120,29.0,M,78.0,175,2.0,4.0,3.0,3.0,2.0,1.0,25.46938775510204,Acima do peso,0.4171072988151646,3 a 4 vezes por semana
+Jessica da Silva Santos,13.0,4824000,33.0,F,60.0,165,1.0,4.0,4.0,4.0,3.0,1.0,22.03856749311295,Peso normal,-0.18066857378623286,1 a 2 vezes por semana
+Jessica da Silva Santos,13.0,4812000,26.0,M,68.0,168,1.0,3.0,5.0,2.0,4.0,1.0,24.092970521541954,Peso normal,-0.0013358120058136155,Nunca
+Jessica da Silva Santos,13.0,4822090,32.0,F,73.0,158,2.0,5.0,3.0,4.0,1.0,4.0,29.242108636436463,Acima do peso,-0.5991116846072111,Diariamente
+Jessica da Silva Santos,13.0,4825110,28.0,M,80.0,172,2.0,4.0,2.0,3.0,2.0,2.0,27.041644131963228,Acima do peso,0.23777453703474538,3 a 4 vezes por semana
+Bruno Rodrigues Martins,14.0,9271400,43.0,F,84.0,173,2.0,5.0,2.0,3.0,3.0,1.0,28.06642386982525,Acima do peso,0.29755212429488515,1 a 2 vezes por semana
+Bruno Rodrigues Martins,14.0,9601000,70.0,M,91.0,171,2.0,2.0,5.0,4.0,1.0,1.0,31.120686707020965,Obesidade I,0.17799694977460565,Diariamente
+Bruno Rodrigues Martins,14.0,9060650,42.0,M,105.0,174,2.0,3.0,4.0,3.0,3.0,1.0,34.68093539437178,Obesidade I,0.35732971155502485,1 a 2 vezes por semana
+Bruno Rodrigues Martins,14.0,9290550,39.0,M,120.0,181,2.0,5.0,4.0,4.0,1.0,1.0,36.62891853118037,Obesidade II (severa),0.7757728223760031,Diariamente
+Bruno Rodrigues Martins,14.0,9726200,43.0,F,75.0,174,1.0,5.0,2.0,4.0,1.0,1.0,24.772096710265558,Peso normal,0.35732971155502485,Diariamente
+Bruno Rodrigues Martins,14.0,9895000,75.0,M,68.0,170,5.0,2.0,1.0,4.0,1.0,1.0,23.529411764705884,Peso normal,0.11821936251446588,Diariamente
+Bruno Rodrigues Martins,14.0,9571000,39.0,M,82.0,181,2.0,5.0,3.0,3.0,3.0,3.0,25.029760996306585,Acima do peso,0.7757728223760031,1 a 2 vezes por semana
+Bruno Rodrigues Martins,14.0,9530000,38.0,M,84.0,182,1.0,4.0,2.0,2.0,2.0,2.0,25.359256128486894,Acima do peso,0.8355504096361429,3 a 4 vezes por semana
+Bruno Rodrigues Martins,14.0,9920100,33.0,F,90.0,172,1.0,4.0,2.0,4.0,3.0,1.0,30.42184964845863,Obesidade I,0.23777453703474538,1 a 2 vezes por semana
+Bruno Rodrigues Martins,14.0,9990050,35.0,M,101.0,191,1.0,1.0,2.0,4.0,3.0,1.0,27.685644582111237,Acima do peso,1.3735486949774007,1 a 2 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,29.0,M,75.0,173,1.0,4.0,4.0,4.0,3.0,1.0,25.05930702662969,Acima do peso,0.29755212429488515,1 a 2 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,32.0,M,74.0,179,1.0,5.0,4.0,4.0,2.0,1.0,23.095409007209515,Peso normal,0.6562176478557237,3 a 4 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,44.0,M,63.0,165,2.0,5.0,6.0,4.0,3.0,1.0,23.140495867768596,Peso normal,-0.18066857378623286,1 a 2 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,19.0,M,65.0,173,1.0,5.0,6.0,4.0,3.0,1.0,21.71806608974573,Peso normal,0.29755212429488515,1 a 2 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,22.0,F,110.0,191,1.0,2.0,6.0,4.0,4.0,1.0,30.15268221814095,Obesidade I,1.3735486949774007,Nunca
+Lenon Alcântara Machado,15.0,7500000,20.0,F,86.0,190,1.0,2.0,6.0,4.0,2.0,1.0,23.822714681440445,Peso normal,1.313771107717261,3 a 4 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,31.0,M,91.0,179,1.0,4.0,4.0,4.0,4.0,1.0,28.40111107643332,Acima do peso,0.6562176478557237,Nunca
+Lenon Alcântara Machado,15.0,7500000,21.0,M,70.0,172,1.0,3.0,6.0,4.0,3.0,1.0,23.661438615467823,Peso normal,0.23777453703474538,1 a 2 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,25.0,F,64.0,170,1.0,2.0,3.0,4.0,3.0,1.0,22.145328719723185,Peso normal,0.11821936251446588,1 a 2 vezes por semana
+Lenon Alcântara Machado,15.0,7500000,32.0,M,93.0,164,1.0,3.0,4.0,1.0,2.0,1.0,34.577632361689474,Obesidade I,-0.24044616104637262,3 a 4 vezes por semana
+Hugo Henrique Corvo dos Santos,16.0,6843260,50.0,M,110.0,150,5.0,2.0,6.0,4.0,4.0,1.0,48.888888888888886,Obesidade III (mórbida),-1.0773323826883292,Nunca
+Hugo Henrique Corvo dos Santos,16.0,6887100,60.0,M,80.0,150,2.0,5.0,6.0,4.0,2.0,1.0,35.55555555555556,Obesidade II (severa),-1.0773323826883292,3 a 4 vezes por semana
+Hugo Henrique Corvo dos Santos,16.0,6846160,29.0,M,170.0,70,2.0,5.0,6.0,4.0,2.0,1.0,346.93877551020415,Obesidade III (mórbida),-5.859539363499509,3 a 4 vezes por semana
+Hugo Henrique Corvo dos Santos,16.0,6843260,29.0,M,190.0,120,2.0,5.0,4.0,4.0,1.0,1.0,131.94444444444446,Obesidade III (mórbida),-2.8706600004925216,Diariamente
+Hugo Henrique Corvo dos Santos,16.0,6843260,40.0,M,180.0,110,3.0,4.0,4.0,4.0,2.0,2.0,148.76033057851237,Obesidade III (mórbida),-3.468435873093919,3 a 4 vezes por semana
+Hugo Henrique Corvo dos Santos,16.0,6887100,70.0,M,130.0,80,3.0,4.0,3.0,1.0,4.0,1.0,203.12499999999997,Obesidade III (mórbida),-5.261763490898112,Nunca
+Hugo Henrique Corvo dos Santos,16.0,6887100,80.0,M,150.0,90,3.0,4.0,2.0,1.0,4.0,1.0,185.18518518518516,Obesidade III (mórbida),-4.663987618296714,Nunca
+Hugo Henrique Corvo dos Santos,16.0,6846160,40.0,M,140.0,100,3.0,4.0,3.0,1.0,4.0,1.0,140.0,Obesidade III (mórbida),-4.066211745695316,Nunca
+Hugo Henrique Corvo dos Santos,16.0,6846160,30.0,M,130.0,100,2.0,4.0,2.0,1.0,4.0,1.0,130.0,Obesidade III (mórbida),-4.066211745695316,Nunca
+Hugo Henrique Corvo dos Santos,16.0,6846160,80.0,M,160.0,60,1.0,4.0,3.0,1.0,4.0,1.0,444.44444444444446,Obesidade III (mórbida),-6.457315236100906,Nunca
+Diogo Packer Elias,17.0,07074190,25.0,M,70.0,175,1.0,3.0,2.0,1.0,1.0,1.0,22.857142857142858,Peso normal,0.4171072988151646,Diariamente
+Diogo Packer Elias,17.0,07074190,30.0,F,60.0,160,2.0,4.0,4.0,4.0,3.0,1.0,23.437499999999996,Peso normal,-0.4795565100869316,1 a 2 vezes por semana
+Diogo Packer Elias,17.0,07074190,40.0,M,80.0,180,2.0,5.0,3.0,2.0,2.0,1.0,24.691358024691358,Peso normal,0.7159952351158634,3 a 4 vezes por semana
+Diogo Packer Elias,17.0,07074190,35.0,F,65.0,165,1.0,7.0,1.0,1.0,1.0,2.0,23.875114784205696,Peso normal,-0.18066857378623286,Diariamente
+Diogo Packer Elias,17.0,07074190,29.0,M,78.0,172,1.0,2.0,6.0,4.0,4.0,1.0,26.365603028664147,Acima do peso,0.23777453703474538,Nunca
+Diogo Packer Elias,17.0,07074190,45.0,F,62.0,158,2.0,4.0,5.0,3.0,2.0,1.0,24.83576349943919,Peso normal,-0.5991116846072111,3 a 4 vezes por semana
+Diogo Packer Elias,17.0,07074190,50.0,M,90.0,185,3.0,6.0,1.0,2.0,2.0,2.0,26.296566837107374,Acima do peso,1.014883171416562,3 a 4 vezes por semana
+Diogo Packer Elias,17.0,07074190,38.0,F,55.0,162,2.0,1.0,3.0,4.0,3.0,1.0,20.957171162932475,Peso normal,-0.3600013355666521,1 a 2 vezes por semana
+Diogo Packer Elias,17.0,07074190,27.0,M,85.0,178,1.0,5.0,2.0,1.0,1.0,2.0,26.82742078020452,Acima do peso,0.5964400605955839,Diariamente
+Diogo Packer Elias,17.0,07074190,32.0,F,58.0,160,5.0,3.0,4.0,3.0,4.0,2.0,22.656249999999996,Peso normal,-0.4795565100869316,Nunca
+Renato Goncalves da Costa,18.0,4830310,9.0,F,39.0,132,1.0,1.0,6.0,4.0,3.0,1.0,22.382920110192835,Peso normal,-2.1533289533708446,1 a 2 vezes por semana
+Renato Goncalves da Costa,18.0,4830310,40.0,M,100.0,174,2.0,3.0,5.0,4.0,1.0,1.0,33.029462280354075,Obesidade I,0.35732971155502485,Diariamente
+Renato Goncalves da Costa,18.0,4830310,37.0,F,68.0,150,2.0,5.0,6.0,4.0,2.0,1.0,30.22222222222222,Obesidade I,-1.0773323826883292,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4830310,66.0,M,72.0,160,2.0,1.0,6.0,4.0,2.0,1.0,28.124999999999993,Acima do peso,-0.4795565100869316,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4830310,76.0,F,65.0,165,2.0,1.0,6.0,4.0,2.0,1.0,23.875114784205696,Peso normal,-0.18066857378623286,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4830310,42.0,F,55.0,152,1.0,4.0,6.0,4.0,2.0,1.0,23.80540166204986,Peso normal,-0.9577772081680496,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4843190,71.0,F,47.0,147,2.0,1.0,6.0,4.0,2.0,1.0,21.75019667731038,Peso normal,-1.2566651444687484,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4843190,80.0,M,55.0,151,2.0,1.0,6.0,4.0,2.0,1.0,24.121749046094468,Peso normal,-1.0175547954281894,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4843190,47.0,M,72.0,184,2.0,2.0,6.0,4.0,2.0,1.0,21.266540642722116,Peso normal,0.9551055841564223,3 a 4 vezes por semana
+Renato Goncalves da Costa,18.0,4843190,43.0,F,80.0,165,2.0,4.0,6.0,4.0,2.0,1.0,29.384756657483933,Acima do peso,-0.18066857378623286,3 a 4 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,30.0,M,70.0,173,1.0,3.0,1.0,4.0,2.0,1.0,23.38868655818771,Peso normal,0.29755212429488515,3 a 4 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,25.0,M,65.0,180,1.0,3.0,1.0,4.0,3.0,1.0,20.061728395061728,Peso normal,0.7159952351158634,1 a 2 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,40.0,M,80.0,155,1.0,3.0,1.0,4.0,2.0,1.0,33.29864724245577,Obesidade I,-0.7784444463876303,3 a 4 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,35.0,M,55.0,161,2.0,3.0,1.0,4.0,2.0,1.0,21.218317194552675,Peso normal,-0.41977892282679186,3 a 4 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,28.0,F,90.0,172,1.0,3.0,1.0,4.0,2.0,1.0,30.42184964845863,Obesidade I,0.23777453703474538,3 a 4 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,22.0,F,50.0,162,2.0,2.0,1.0,4.0,2.0,1.0,19.05197378448407,Peso normal,-0.3600013355666521,3 a 4 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,23.0,M,85.0,163,2.0,4.0,1.0,4.0,4.0,1.0,31.992171327486922,Obesidade I,-0.3002237483065124,Nunca
+Gabriel Padula da Silva,19.0,9241480,50.0,M,60.0,177,1.0,2.0,6.0,4.0,3.0,1.0,19.15158479364167,Peso normal,0.5366624733354441,1 a 2 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,37.0,F,77.0,174,2.0,3.0,2.0,4.0,3.0,1.0,25.43268595587264,Acima do peso,0.35732971155502485,1 a 2 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,41.0,M,73.0,189,2.0,4.0,4.0,4.0,3.0,1.0,20.43615800229557,Peso normal,1.253993520457121,1 a 2 vezes por semana
+Gabriel Padula da Silva,19.0,9241480,58.0,M,81.0,190,2.0,4.0,6.0,4.0,3.0,1.0,22.437673130193907,Peso normal,1.313771107717261,1 a 2 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,55.0,M,88.0,175,1.0,3.0,6.0,4.0,3.0,1.0,28.73469387755102,Acima do peso,0.4171072988151646,1 a 2 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,46.0,M,102.0,190,1.0,3.0,5.0,4.0,3.0,1.0,28.254847645429365,Acima do peso,1.313771107717261,1 a 2 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,33.0,M,57.0,167,1.0,3.0,4.0,4.0,3.0,1.0,20.43816558499767,Peso normal,-0.06111339926595336,1 a 2 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,41.0,M,66.0,155,1.0,4.0,3.0,4.0,2.0,1.0,27.47138397502601,Acima do peso,-0.7784444463876303,3 a 4 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,47.0,M,77.0,177,2.0,4.0,5.0,4.0,2.0,1.0,24.577867151840145,Peso normal,0.5366624733354441,3 a 4 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,55.0,F,79.0,168,2.0,4.0,1.0,4.0,3.0,1.0,27.99036281179139,Acima do peso,-0.0013358120058136155,1 a 2 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,52.0,F,80.0,182,2.0,4.0,1.0,4.0,3.0,1.0,24.151672503320853,Peso normal,0.8355504096361429,1 a 2 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,30.0,M,83.0,175,2.0,4.0,1.0,4.0,2.0,1.0,27.102040816326532,Acima do peso,0.4171072988151646,3 a 4 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,29.0,M,97.0,176,2.0,4.0,1.0,4.0,2.0,1.0,31.31456611570248,Obesidade I,0.4768848860753044,3 a 4 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,40.0,M,99.0,184,2.0,4.0,1.0,4.0,2.0,1.0,29.24149338374291,Acima do peso,0.9551055841564223,3 a 4 vezes por semana
+Giovanni Petruitis Cantagesso,20.0,3515110,42.0,M,95.0,169,2.0,2.0,1.0,4.0,2.0,1.0,33.2621406813487,Obesidade I,0.05844177525432613,3 a 4 vezes por semana
+Carlos Augusto Reis,21.0,9725160,30.0,M,104.0,178,2.0,4.0,5.0,4.0,3.0,1.0,32.82413836636788,Obesidade I,0.5964400605955839,1 a 2 vezes por semana
+Carlos Augusto Reis,21.0,9725160,30.0,F,70.0,167,2.0,4.0,5.0,4.0,3.0,1.0,25.099501595611173,Acima do peso,-0.06111339926595336,1 a 2 vezes por semana
+Carlos Augusto Reis,21.0,6730000,82.0,F,60.0,153,5.0,2.0,5.0,3.0,4.0,1.0,25.63116749967961,Acima do peso,-0.8979996209079099,Nunca
+Carlos Augusto Reis,21.0,6730000,80.0,F,63.0,158,5.0,2.0,6.0,4.0,4.0,1.0,25.236340330075304,Acima do peso,-0.5991116846072111,Nunca
+Carlos Augusto Reis,21.0,6730000,62.0,M,98.0,176,4.0,4.0,6.0,4.0,4.0,1.0,31.63739669421488,Obesidade I,0.4768848860753044,Nunca
+Carlos Augusto Reis,21.0,6730000,54.0,F,60.0,160,4.0,3.0,6.0,4.0,4.0,1.0,23.437499999999996,Peso normal,-0.4795565100869316,Nunca
+Carlos Augusto Reis,21.0,6730000,35.0,M,80.0,174,4.0,4.0,6.0,4.0,4.0,1.0,26.42356982428326,Acima do peso,0.35732971155502485,Nunca
+Carlos Augusto Reis,21.0,6730000,28.0,F,60.0,160,4.0,4.0,6.0,4.0,4.0,1.0,23.437499999999996,Peso normal,-0.4795565100869316,Nunca
+Carlos Augusto Reis,21.0,6730000,4.0,F,20.0,101,1.0,1.0,6.0,4.0,4.0,1.0,19.60592098813842,Peso normal,-4.006434158435177,Nunca
+Carlos Augusto Reis,21.0,6730000,1.0,F,9.0,80,1.0,1.0,6.0,4.0,4.0,1.0,14.062499999999996,Muito abaixo do peso,-5.261763490898112,Nunca
+Giovanni Cardozo,22.0,3342000,27.0,F,68.0,165,2.0,4.0,3.0,2.0,1.0,4.0,24.977043158861342,Peso normal,-0.18066857378623286,Diariamente
+Giovanni Cardozo,22.0,3342000,35.0,M,85.0,178,1.0,3.0,2.0,1.0,3.0,1.0,26.82742078020452,Acima do peso,0.5964400605955839,1 a 2 vezes por semana
+Giovanni Cardozo,22.0,3342000,42.0,F,75.0,172,3.0,5.0,4.0,4.0,2.0,2.0,25.351541373715524,Acima do peso,0.23777453703474538,3 a 4 vezes por semana
+Giovanni Cardozo,22.0,3325000,29.0,M,90.0,180,5.0,6.0,5.0,3.0,4.0,3.0,27.777777777777775,Acima do peso,0.7159952351158634,Nunca
+Giovanni Cardozo,22.0,3325000,47.0,F,60.0,158,4.0,2.0,1.0,2.0,3.0,4.0,24.034609838166958,Peso normal,-0.5991116846072111,1 a 2 vezes por semana
+Giovanni Cardozo,22.0,3325000,34.0,F,55.0,160,1.0,3.0,4.0,4.0,2.0,4.0,21.484374999999996,Peso normal,-0.4795565100869316,3 a 4 vezes por semana
+Giovanni Cardozo,22.0,3316000,45.0,M,92.0,175,2.0,5.0,3.0,1.0,1.0,1.0,30.040816326530614,Obesidade I,0.4171072988151646,Diariamente
+Giovanni Cardozo,22.0,3316000,38.0,F,78.0,170,3.0,4.0,2.0,3.0,4.0,2.0,26.989619377162633,Acima do peso,0.11821936251446588,Nunca
+Giovanni Cardozo,22.0,3316000,50.0,M,88.0,182,5.0,6.0,5.0,2.0,3.0,3.0,26.56683975365294,Acima do peso,0.8355504096361429,1 a 2 vezes por semana
+Giovanni Cardozo,22.0,3316000,33.0,M,66.0,185,1.0,2.0,3.0,4.0,3.0,3.0,19.284149013878743,Peso normal,1.014883171416562,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,80.0,M,90.0,174,2.0,1.0,3.0,4.0,3.0,1.0,29.72651605231867,Acima do peso,0.35732971155502485,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,77.0,F,75.0,150,2.0,1.0,6.0,4.0,3.0,1.0,33.333333333333336,Obesidade I,-1.0773323826883292,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,46.0,F,60.0,150,1.0,4.0,3.0,4.0,3.0,4.0,26.666666666666668,Acima do peso,-1.0773323826883292,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,50.0,F,75.0,158,3.0,4.0,3.0,4.0,3.0,1.0,30.043262297708697,Obesidade I,-0.5991116846072111,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,29.0,M,115.0,180,2.0,2.0,3.0,4.0,3.0,1.0,35.49382716049382,Obesidade II (severa),0.7159952351158634,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,28.0,F,80.0,171,2.0,2.0,3.0,4.0,3.0,1.0,27.358845456721728,Acima do peso,0.17799694977460565,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,24.0,F,65.0,171,1.0,4.0,3.0,4.0,3.0,1.0,22.229061933586404,Peso normal,0.17799694977460565,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,55.0,F,90.0,170,4.0,2.0,3.0,4.0,3.0,1.0,31.14186851211073,Obesidade I,0.11821936251446588,1 a 2 vezes por semana
+Edilson Claudino da Silva,23.0,02853040,39.0,M,90.0,168,2.0,4.0,3.0,4.0,4.0,1.0,31.88775510204082,Obesidade I,-0.0013358120058136155,Nunca
+Edilson Claudino da Silva,23.0,02853040,38.0,F,74.0,158,2.0,3.0,6.0,4.0,4.0,1.0,29.642685467072578,Acima do peso,-0.5991116846072111,Nunca
+Joao Pedro Hideki Araujo Araki,24.0,03188040,26.0,M,130.0,173,1.0,4.0,3.0,2.0,1.0,1.0,43.43613217949146,Obesidade III (mórbida),0.29755212429488515,Diariamente
+Joao Pedro Hideki Araujo Araki,24.0,03188040,65.0,M,75.0,168,2.0,1.0,6.0,4.0,2.0,1.0,26.573129251700685,Acima do peso,-0.0013358120058136155,3 a 4 vezes por semana
+Joao Pedro Hideki Araujo Araki,24.0,03188040,53.0,F,65.0,160,2.0,2.0,5.0,1.0,4.0,1.0,25.390624999999996,Acima do peso,-0.4795565100869316,Nunca
+Joao Pedro Hideki Araujo Araki,24.0,03188040,24.0,F,57.0,165,1.0,4.0,3.0,4.0,2.0,1.0,20.936639118457304,Peso normal,-0.18066857378623286,3 a 4 vezes por semana
+Joao Pedro Hideki Araujo Araki,24.0,02028000,51.0,M,120.0,178,2.0,3.0,5.0,4.0,3.0,4.0,37.87400580734756,Obesidade II (severa),0.5964400605955839,1 a 2 vezes por semana
+Joao Pedro Hideki Araujo Araki,24.0,04532002,14.0,M,70.0,166,1.0,1.0,6.0,4.0,2.0,1.0,25.402816083611555,Acima do peso,-0.12089098652609312,3 a 4 vezes por semana
+Joao Pedro Hideki Araujo Araki,24.0,04532002,85.0,F,60.0,150,3.0,5.0,4.0,4.0,4.0,1.0,26.666666666666668,Acima do peso,-1.0773323826883292,Nunca
+Joao Pedro Hideki Araujo Araki,24.0,04532002,53.0,F,80.0,155,3.0,5.0,4.0,1.0,4.0,4.0,33.29864724245577,Obesidade I,-0.7784444463876303,Nunca
+Joao Pedro Hideki Araujo Araki,24.0,03059050,26.0,M,100.0,173,1.0,4.0,3.0,3.0,1.0,4.0,33.41240936883958,Obesidade I,0.29755212429488515,Diariamente
+Joao Pedro Hideki Araujo Araki,24.0,03058040,25.0,M,97.0,177,1.0,3.0,4.0,1.0,1.0,4.0,30.961728749720702,Obesidade I,0.5366624733354441,Diariamente
+Natalia Alves Strassacapa Reis,25.0,09175020,42.0,F,62.0,160,2.0,4.0,5.0,4.0,3.0,4.0,24.218749999999996,Peso normal,-0.4795565100869316,1 a 2 vezes por semana
+Natalia Alves Strassacapa Reis,25.0,09175020,45.0,M,90.0,180,2.0,4.0,5.0,4.0,2.0,1.0,27.777777777777775,Acima do peso,0.7159952351158634,3 a 4 vezes por semana
+Natalia Alves Strassacapa Reis,25.0,09175020,62.0,F,65.0,165,2.0,1.0,6.0,4.0,4.0,4.0,23.875114784205696,Peso normal,-0.18066857378623286,Nunca
+Natalia Alves Strassacapa Reis,25.0,09175020,65.0,M,50.0,160,2.0,1.0,1.0,1.0,4.0,1.0,19.531249999999996,Peso normal,-0.4795565100869316,Nunca
+Natalia Alves Strassacapa Reis,25.0,09725160,30.0,F,70.0,167,2.0,4.0,5.0,4.0,3.0,1.0,25.099501595611173,Acima do peso,-0.06111339926595336,1 a 2 vezes por semana
+Natalia Alves Strassacapa Reis,25.0,09725160,30.0,M,104.0,178,2.0,4.0,5.0,4.0,3.0,1.0,32.82413836636788,Obesidade I,0.5964400605955839,1 a 2 vezes por semana
+Natalia Alves Strassacapa Reis,25.0,09910020,21.0,F,55.0,168,1.0,4.0,6.0,4.0,1.0,3.0,19.48696145124717,Peso normal,-0.0013358120058136155,Diariamente
+Natalia Alves Strassacapa Reis,25.0,09910020,45.0,M,85.0,178,2.0,5.0,4.0,4.0,2.0,1.0,26.82742078020452,Acima do peso,0.5964400605955839,3 a 4 vezes por semana
+Natalia Alves Strassacapa Reis,25.0,09725000,33.0,F,70.0,172,3.0,2.0,5.0,2.0,4.0,4.0,23.661438615467823,Peso normal,0.23777453703474538,Nunca
+Natalia Alves Strassacapa Reis,25.0,09725000,37.0,M,95.0,182,1.0,4.0,3.0,4.0,1.0,1.0,28.680111097693512,Acima do peso,0.8355504096361429,Diariamente
+Luigi Villanova Machado de Barros Lago,26.0,5606010,21.0,M,98.0,170,1.0,4.0,1.0,4.0,3.0,1.0,33.91003460207613,Obesidade I,0.11821936251446588,1 a 2 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,15.0,F,66.0,172,1.0,4.0,6.0,4.0,3.0,1.0,22.30935640886966,Peso normal,0.23777453703474538,1 a 2 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,25.0,F,60.0,167,1.0,4.0,6.0,4.0,2.0,1.0,21.513858510523864,Peso normal,-0.06111339926595336,3 a 4 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,22.0,F,72.0,166,1.0,2.0,6.0,4.0,2.0,1.0,26.1286108288576,Acima do peso,-0.12089098652609312,3 a 4 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,20.0,F,74.0,170,1.0,3.0,6.0,4.0,1.0,1.0,25.605536332179934,Acima do peso,0.11821936251446588,Diariamente
+Luigi Villanova Machado de Barros Lago,26.0,5606010,31.0,F,66.0,157,1.0,1.0,5.0,4.0,3.0,1.0,26.775934114974238,Acima do peso,-0.6588892718673509,1 a 2 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,21.0,M,80.0,173,1.0,4.0,2.0,4.0,2.0,1.0,26.729927495071667,Acima do peso,0.29755212429488515,3 a 4 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,28.0,M,88.0,185,1.0,4.0,3.0,4.0,3.0,1.0,25.712198685171657,Acima do peso,1.014883171416562,1 a 2 vezes por semana
+Luigi Villanova Machado de Barros Lago,26.0,5606010,29.0,M,104.0,180,1.0,4.0,4.0,4.0,1.0,1.0,32.098765432098766,Obesidade I,0.7159952351158634,Diariamente
+Luigi Villanova Machado de Barros Lago,26.0,5606010,43.0,M,120.0,190,1.0,4.0,1.0,4.0,1.0,1.0,33.2409972299169,Obesidade I,1.313771107717261,Diariamente
+Luigi Villanova Machado de Barros Lago,26.0,5606010,40.0,M,75.0,171,1.0,4.0,1.0,4.0,1.0,1.0,25.64891761567662,Acima do peso,0.17799694977460565,Diariamente
+Andre Lopes Veiga,27.0,11045003,45.0,M,87.0,175,2.0,5.0,5.0,4.0,1.0,4.0,28.408163265306122,Acima do peso,0.4171072988151646,Diariamente
+Andre Lopes Veiga,27.0,11045003,46.0,F,76.0,166,2.0,5.0,5.0,4.0,2.0,4.0,27.58020031934969,Acima do peso,-0.12089098652609312,3 a 4 vezes por semana
+Andre Lopes Veiga,27.0,11045003,13.0,F,42.0,155,1.0,1.0,6.0,4.0,2.0,4.0,17.48178980228928,Abaixo do peso,-0.7784444463876303,3 a 4 vezes por semana
+Andre Lopes Veiga,27.0,11045130,78.0,F,82.0,150,5.0,2.0,4.0,4.0,4.0,1.0,36.44444444444444,Obesidade II (severa),-1.0773323826883292,Nunca
+Andre Lopes Veiga,27.0,11045130,52.0,F,72.0,170,3.0,3.0,4.0,1.0,1.0,1.0,24.913494809688583,Peso normal,0.11821936251446588,Diariamente
+Andre Lopes Veiga,27.0,11040000,24.0,M,89.0,162,1.0,4.0,4.0,2.0,3.0,1.0,33.91251333638164,Obesidade I,-0.3600013355666521,1 a 2 vezes por semana
+Andre Lopes Veiga,27.0,11045130,21.0,F,95.0,165,1.0,1.0,2.0,1.0,4.0,1.0,34.894398530762174,Obesidade I,-0.18066857378623286,Nunca
+Andre Lopes Veiga,27.0,11472100,26.0,M,98.0,195,1.0,4.0,5.0,4.0,1.0,4.0,25.77251808021039,Acima do peso,1.6126590440179596,Diariamente
+Andre Lopes Veiga,27.0,11472100,65.0,M,96.0,182,2.0,1.0,3.0,4.0,3.0,1.0,28.982007003985025,Acima do peso,0.8355504096361429,1 a 2 vezes por semana
+Andre Lopes Veiga,27.0,11472100,72.0,F,82.0,167,2.0,1.0,4.0,4.0,3.0,1.0,29.402273297715947,Acima do peso,-0.06111339926595336,1 a 2 vezes por semana
+Anna Carolina Aparecida Peixe de Barros,28.0,1510000,57.0,F,81.0,163,5.0,1.0,3.0,4.0,3.0,1.0,30.48665738266401,Obesidade I,-0.3002237483065124,1 a 2 vezes por semana
+Anna Carolina Aparecida Peixe de Barros,28.0,1510000,41.0,M,78.0,172,1.0,2.0,3.0,1.0,4.0,1.0,26.365603028664147,Acima do peso,0.23777453703474538,Nunca
+Anna Carolina Aparecida Peixe de Barros,28.0,6856790,30.0,F,80.0,162,1.0,4.0,3.0,4.0,1.0,4.0,30.48315805517451,Obesidade I,-0.3600013355666521,Diariamente
+Anna Carolina Aparecida Peixe de Barros,28.0,6856790,41.0,M,76.0,182,1.0,1.0,6.0,4.0,1.0,4.0,22.944088878154812,Peso normal,0.8355504096361429,Diariamente
+Anna Carolina Aparecida Peixe de Barros,28.0,6856790,29.0,F,83.0,165,2.0,1.0,3.0,1.0,2.0,1.0,30.48668503213958,Obesidade I,-0.18066857378623286,3 a 4 vezes por semana
+Anna Carolina Aparecida Peixe de Barros,28.0,6856570,32.0,F,73.0,178,1.0,1.0,2.0,1.0,3.0,3.0,23.04002019946976,Peso normal,0.5964400605955839,1 a 2 vezes por semana
+Anna Carolina Aparecida Peixe de Barros,28.0,6856570,41.0,F,67.0,158,1.0,2.0,2.0,4.0,3.0,1.0,26.83864765261977,Acima do peso,-0.5991116846072111,1 a 2 vezes por semana
+Anna Carolina Aparecida Peixe de Barros,28.0,6856570,29.0,M,97.0,172,3.0,2.0,2.0,2.0,2.0,3.0,32.787993510005414,Obesidade I,0.23777453703474538,3 a 4 vezes por semana
+Anna Carolina Aparecida Peixe de Barros,28.0,1505000,61.0,F,73.0,143,1.0,1.0,6.0,4.0,4.0,1.0,35.69856716709864,Obesidade II (severa),-1.4957754935093073,Nunca
+Anna Carolina Aparecida Peixe de Barros,28.0,1505000,23.0,F,62.0,162,1.0,3.0,6.0,4.0,2.0,1.0,23.624447492760247,Peso normal,-0.3600013355666521,3 a 4 vezes por semana
+Gabriel Lima da Costa Orrico,29.0,7080020,23.0,M,71.0,186,2.0,5.0,3.0,3.0,3.0,1.0,20.522603769221874,Peso normal,1.0746607586767019,1 a 2 vezes por semana
+Gabriel Lima da Costa Orrico,29.0,7080020,24.0,F,58.0,165,2.0,5.0,3.0,4.0,2.0,1.0,21.30394857667585,Peso normal,-0.18066857378623286,3 a 4 vezes por semana
+Gabriel Lima da Costa Orrico,29.0,8070090,49.0,M,62.0,162,2.0,2.0,5.0,4.0,3.0,1.0,23.624447492760247,Peso normal,-0.3600013355666521,1 a 2 vezes por semana
+Gabriel Lima da Costa Orrico,29.0,8070090,50.0,F,84.0,186,2.0,4.0,4.0,4.0,3.0,1.0,24.280263614290668,Peso normal,1.0746607586767019,1 a 2 vezes por semana
+Gabriel Lima da Costa Orrico,29.0,8161240,24.0,M,60.0,183,1.0,3.0,3.0,3.0,3.0,1.0,17.916330735465376,Abaixo do peso,0.8953279968962826,1 a 2 vezes por semana
+Gabriel Lima da Costa Orrico,29.0,8161240,41.0,F,60.0,170,4.0,5.0,4.0,4.0,1.0,1.0,20.761245674740486,Peso normal,0.11821936251446588,Diariamente
+Gabriel Lima da Costa Orrico,29.0,8061220,50.0,F,61.0,165,2.0,2.0,4.0,4.0,4.0,1.0,22.4058769513315,Peso normal,-0.18066857378623286,Nunca
+Gabriel Lima da Costa Orrico,29.0,8061220,51.0,M,83.0,173,2.0,1.0,2.0,2.0,4.0,1.0,27.732299776136855,Acima do peso,0.29755212429488515,Nunca
+Gabriel Lima da Costa Orrico,29.0,8070080,76.0,F,69.0,160,2.0,1.0,5.0,1.0,4.0,1.0,26.953124999999996,Acima do peso,-0.4795565100869316,Nunca
+Gabriel Lima da Costa Orrico,29.0,8070080,46.0,F,71.0,163,3.0,3.0,5.0,2.0,3.0,1.0,26.722872520606725,Acima do peso,-0.3002237483065124,1 a 2 vezes por semana
+Grasiely Lima Pastori Vieira,30.0,12345678,22.0,M,70.0,175,1.0,4.0,3.0,4.0,2.0,1.0,22.857142857142858,Peso normal,0.4171072988151646,3 a 4 vezes por semana
+Grasiely Lima Pastori Vieira,30.0,23456789,19.0,F,60.0,160,2.0,3.0,4.0,3.0,3.0,2.0,23.437499999999996,Peso normal,-0.4795565100869316,1 a 2 vezes por semana
+Grasiely Lima Pastori Vieira,30.0,34567890,25.0,M,78.0,180,1.0,2.0,2.0,4.0,1.0,1.0,24.074074074074073,Peso normal,0.7159952351158634,Diariamente
+Grasiely Lima Pastori Vieira,30.0,45678901,30.0,F,55.0,165,3.0,5.0,5.0,1.0,4.0,4.0,20.202020202020204,Peso normal,-0.18066857378623286,Nunca
+Grasiely Lima Pastori Vieira,30.0,56789012,27.0,M,82.0,185,2.0,4.0,1.0,2.0,1.0,1.0,23.959094229364496,Peso normal,1.014883171416562,Diariamente
+Grasiely Lima Pastori Vieira,30.0,67890123,24.0,F,64.0,162,1.0,3.0,3.0,4.0,2.0,3.0,24.38652644413961,Peso normal,-0.3600013355666521,3 a 4 vezes por semana
+Grasiely Lima Pastori Vieira,30.0,78901234,21.0,M,76.0,178,2.0,6.0,6.0,3.0,3.0,4.0,23.98687034465345,Peso normal,0.5964400605955839,1 a 2 vezes por semana
+Grasiely Lima Pastori Vieira,30.0,89012345,23.0,M,58.0,158,5.0,4.0,2.0,1.0,2.0,2.0,23.233456176894723,Peso normal,-0.5991116846072111,3 a 4 vezes por semana
+Grasiely Lima Pastori Vieira,30.0,90123456,26.0,M,80.0,182,4.0,3.0,4.0,4.0,1.0,1.0,24.151672503320853,Peso normal,0.8355504096361429,Diariamente
+Grasiely Lima Pastori Vieira,30.0,1234567,29.0,F,65.0,164,1.0,2.0,5.0,2.0,4.0,4.0,24.167162403331353,Peso normal,-0.24044616104637262,Nunca
+Allison Melo dos Santos,31.0,1001000,25.0,F,60.0,165,1.0,4.0,3.0,4.0,3.0,4.0,22.03856749311295,Peso normal,-0.18066857378623286,1 a 2 vezes por semana
+Allison Melo dos Santos,31.0,20040000,40.0,M,82.0,175,2.0,5.0,2.0,2.0,2.0,1.0,26.775510204081634,Acima do peso,0.4171072988151646,3 a 4 vezes por semana
+Allison Melo dos Santos,31.0,30130100,31.0,F,70.0,160,3.0,3.0,4.0,3.0,4.0,2.0,27.343749999999996,Acima do peso,-0.4795565100869316,Nunca
+Allison Melo dos Santos,31.0,40020010,50.0,M,95.0,180,2.0,2.0,1.0,1.0,1.0,3.0,29.320987654320987,Acima do peso,0.7159952351158634,Diariamente
+Allison Melo dos Santos,31.0,50030230,38.0,F,55.0,158,4.0,1.0,2.0,4.0,2.0,4.0,22.031725684986377,Peso normal,-0.5991116846072111,3 a 4 vezes por semana
+Allison Melo dos Santos,31.0,60060130,29.0,M,78.0,172,1.0,4.0,1.0,3.0,3.0,1.0,26.365603028664147,Acima do peso,0.23777453703474538,1 a 2 vezes por semana
+Allison Melo dos Santos,31.0,70040020,60.0,F,65.0,162,5.0,2.0,4.0,4.0,1.0,4.0,24.76756591982929,Peso normal,-0.3600013355666521,Diariamente
+Allison Melo dos Santos,31.0,80010100,34.0,M,88.0,185,1.0,5.0,3.0,2.0,1.0,1.0,25.712198685171657,Acima do peso,1.014883171416562,Diariamente
+Allison Melo dos Santos,31.0,90030080,45.0,F,72.0,168,2.0,3.0,2.0,1.0,2.0,3.0,25.510204081632658,Acima do peso,-0.0013358120058136155,3 a 4 vezes por semana
+Allison Melo dos Santos,31.0,70750300,52.0,M,91.0,178,2.0,4.0,3.0,4.0,3.0,2.0,28.721121070571897,Acima do peso,0.5964400605955839,1 a 2 vezes por semana
+Ryan de Oliveira Queiroz,32.0,2238130,18.0,M,90.0,172,1.0,3.0,2.0,4.0,4.0,3.0,30.42184964845863,Obesidade I,0.23777453703474538,Nunca
+Ryan de Oliveira Queiroz,32.0,2543000,35.0,F,103.1,157,2.0,4.0,3.0,4.0,1.0,2.0,41.827254655361266,Obesidade III (mórbida),-0.6588892718673509,Diariamente
+Ryan de Oliveira Queiroz,32.0,2543000,26.0,F,64.0,156,2.0,2.0,1.0,2.0,4.0,4.0,26.298487836949374,Acima do peso,-0.7186668591274906,Nunca
+Ryan de Oliveira Queiroz,32.0,2460000,18.0,M,108.5,186,1.0,4.0,1.0,3.0,1.0,4.0,31.362007168458778,Obesidade I,1.0746607586767019,Diariamente
+Ryan de Oliveira Queiroz,32.0,2460000,50.0,M,105.1,161,3.0,6.0,2.0,2.0,1.0,2.0,40.546275220863386,Obesidade III (mórbida),-0.41977892282679186,Diariamente
+Ryan de Oliveira Queiroz,32.0,2460000,58.0,F,59.8,182,1.0,7.0,5.0,2.0,3.0,4.0,18.053375196232338,Abaixo do peso,0.8355504096361429,1 a 2 vezes por semana
+Ryan de Oliveira Queiroz,32.0,2238130,78.0,F,97.8,173,4.0,3.0,2.0,3.0,4.0,3.0,32.677336362725114,Obesidade I,0.29755212429488515,Nunca
+Ryan de Oliveira Queiroz,32.0,2238130,36.0,F,107.8,156,4.0,1.0,1.0,1.0,2.0,4.0,44.296515450361596,Obesidade III (mórbida),-0.7186668591274906,3 a 4 vezes por semana
+Ryan de Oliveira Queiroz,32.0,2543000,35.0,M,56.4,176,3.0,7.0,4.0,2.0,1.0,2.0,18.207644628099175,Abaixo do peso,0.4768848860753044,Diariamente
+Ryan de Oliveira Queiroz,32.0,2543000,77.0,F,79.1,176,1.0,3.0,4.0,4.0,1.0,3.0,25.53589876033058,Acima do peso,0.4768848860753044,Diariamente
