@@ -57,5 +57,3 @@ Etapas do Projeto:
 
 - Email: rlarissa191@gmail.com
 - Linkedin: https://www.linkedin.com/in/larissa-de-almeida-ribeiro-212214197/
-
-🚧 Em construção 🚧
